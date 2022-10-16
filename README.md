@@ -7,3 +7,4 @@ ConfiguroWeb es una empresa especializada en procesos de Marketing Digital y Des
 Actualmente se esta aplicando una estrategia de entregar proyectos semanales en PHP y MySQL en el canal de Youtube que va creciendo, el enlace de mi perfil es el siguiente.
 
 https://www.youtube.com/channel/UCVnrMbml3wUIuwz-oSaIUnA
+https://www.configuroweb.com/sistema-web-de-pedidos-en-php-y-mysql/
